@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50" width="50" height="50">
+	<defs>
+		<image width="13" height="20" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAUCAMAAABh7EcdAAAAAXNSR0IB2cksfwAAAIFQTFRFAAAATU1NLy8vISEhJiYmISEhMjIybGxsLy8vNjY2Nzc3KysrNTU1QEBAKysrNTU1R0dHLCwsNDQ0TExMKCgoNDQ0Ojo6JCQkMzMzPDw8JSUlMzMzPz8/Q0NDQ0NDMzMzJSUlMzMzLCwsNDQ0LCwsKysrNTU1NTU1JSUlMjIyLi4uFBxuBQAAACt0Uk5TAHXpEP//4gHq2xfx2Rvy1yHz1ib31Ej800z80VCwsdL71PLX8fDa3P/j6j2b6fYAAABzSURBVHicVdDJEoJADATQjBIVRGVHwAWVRfj/D6Q9TDPm9qpSSToiYjZbYRlPd8T+oKo+GRzBkDydwQsZxWBCphmYk0UJXsmqBhvy9uP9Tw+382mntMDLbmidhdEb+NjLOufQoAcGN9G4pv3qtGYXM/MTC68kBaNe4lJ6AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #212121;stroke-opacity:0.35;stroke-width: 0.4 } 
+		.shp1 { opacity: 0.349;fill: #212121 } 
+		.shp2 { fill: #ffffff } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<g id="Layer">
+				<path id="Layer" class="shp0" d="M25 1C38.26 1 49 11.74 49 25C49 38.26 38.26 49 25 49C11.74 49 1 38.26 1 25C1 11.74 11.74 1 25 1Z" />
+				<path id="Layer" class="shp1" d="M25 1C38.26 1 49 11.74 49 25C49 38.26 38.26 49 25 49C11.74 49 1 38.26 1 25C1 11.74 11.74 1 25 1Z" />
+			</g>
+			<path id="Layer" class="shp2" d="M25 1C38.26 1 49 11.74 49 25C49 38.26 38.26 49 25 49C11.74 49 1 38.26 1 25C1 11.74 11.74 1 25 1Z" />
+		</g>
+	</g>
+	<use id="Layer copy" href="#img1" x="19" y="15" />
+</svg>
